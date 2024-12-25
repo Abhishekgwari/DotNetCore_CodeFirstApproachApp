@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCore_CodeFirstApproachApp", "DotNetCore_CodeFirstApproachApp\DotNetCore_CodeFirstApproachApp.csproj", "{946E7CE9-7387-473B-8A2A-0C9D659BD129}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{946E7CE9-7387-473B-8A2A-0C9D659BD129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{946E7CE9-7387-473B-8A2A-0C9D659BD129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{946E7CE9-7387-473B-8A2A-0C9D659BD129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{946E7CE9-7387-473B-8A2A-0C9D659BD129}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {979BA86E-291F-4367-9C70-4A0CFB72A310}
+	EndGlobalSection
+EndGlobal
